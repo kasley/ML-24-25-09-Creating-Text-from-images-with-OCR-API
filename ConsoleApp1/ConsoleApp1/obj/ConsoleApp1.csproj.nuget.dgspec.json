@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karthikprabu/Downloads/seLab/ksnMatrix/project/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/Users/karthikprabu/Downloads/seLab/seProject/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/karthikprabu/Downloads/seLab/ksnMatrix/project/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
+    "/Users/karthikprabu/Downloads/seLab/seProject/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karthikprabu/Downloads/seLab/ksnMatrix/project/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/karthikprabu/Downloads/seLab/seProject/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/karthikprabu/Downloads/seLab/ksnMatrix/project/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectPath": "/Users/karthikprabu/Downloads/seLab/seProject/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
         "packagesPath": "/Users/karthikprabu/.nuget/packages/",
-        "outputPath": "/Users/karthikprabu/Downloads/seLab/ksnMatrix/project/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/obj/",
+        "outputPath": "/Users/karthikprabu/Downloads/seLab/seProject/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/karthikprabu/.nuget/NuGet/NuGet.Config"

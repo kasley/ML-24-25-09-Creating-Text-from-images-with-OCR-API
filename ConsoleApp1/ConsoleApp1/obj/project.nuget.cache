@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9PO4yuep4aQ=",
+  "dgSpecHash": "HhLfpaU3kis=",
   "success": true,
-  "projectFilePath": "/Users/karthikprabu/Downloads/seLab/ksnMatrix/project/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/Users/karthikprabu/Downloads/seLab/seProject/ML-24-25-09-Creating-Text-from-images-with-OCR-API/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "/Users/karthikprabu/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/karthikprabu/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
